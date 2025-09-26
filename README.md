@@ -72,7 +72,7 @@ python test/test_calculadora_impuestos.py
 
 ## Autores
 Este proyecto esta siendo realizado por: 
-- Paull Harry Palacio Goez 
+- Paull Harry Palacios Goez 
 - Andre Rivas Garcia
 
 ## Link de Audio Explicativo sobre el tema
