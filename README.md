@@ -21,7 +21,8 @@ Impuestos-de-Venta/
 │   ├── model/                                 
 │   │   └── calculadora_impuestos.py           
 │   └── view/                                  
-│       └── interfaz_consola.py                
+│       └── interfaz_consola.py
+│       └── interfaz_kivy.py            
 │
 ├── test/                                      
 │   └── test_calculadora_impuestos.py          
