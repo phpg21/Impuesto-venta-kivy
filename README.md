@@ -13,7 +13,7 @@ La aplicación ofrece dos formas de ejecución: Consola e Interfaz Gráfica (Kiv
 ## Estructura del Proyecto
 
 ```
-Impuestos-de-Venta/
+Impuestos-de-Venta-Kivy/
 │
 ├── docs/                                      
 │   └── Libro de excel - Casos de prueba - Andre y Paull.xlsx
