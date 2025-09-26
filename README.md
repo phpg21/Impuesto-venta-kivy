@@ -65,7 +65,8 @@ python test/test_calculadora_impuestos.py
   - Impuesto Nacional al Consumo (INC)
   - Impuesto de Rentas a los Licores
   - Impuesto de Bolsas Plásticas
-- Interfaz de consola 
+- Interfaz de consola
+- Interfaz visual Kivy 
 - Pruebas unitarias 
 
 
