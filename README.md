@@ -7,6 +7,7 @@ La aplicación ofrece dos formas de ejecución: Consola y Interfaz Gráfica (Kiv
 
 ### Requisitos
 - Asegurate de tener Python 3.6 o superior (si no lo tienes descargalo aquí: [Python.org](https://www.python.org/downloads/))
+- Asegurate de tener instalado Kivy, puede hacerlo con el comando: pip install "kivy[base]"
 
 
 ## Estructura del Proyecto
