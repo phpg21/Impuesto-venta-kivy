@@ -41,11 +41,16 @@ Impuestos-de-Venta/
    python main.py
    ```
    
-   O alternativamente:
+   O alternativamente en formato de consola:
    ```bash
    python src/view/interfaz_consola.py
    ```
-
+   
+   O alternativamente en formato gráfico Kivy:
+   ```bash
+   python src/view/interfaz_kivy.py
+   ```
+   
 ### Ejecutar pruebas
 ```bash
 python test/test_calculadora_impuestos.py
