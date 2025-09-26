@@ -77,3 +77,4 @@ Este proyecto esta siendo realizado por:
 1. [Interfaz de Consola](src/view/interfaz_consola.py)
 2. [Calculadora de Impuestos](src/model/calculadora_impuestos.py)
 3. [Test Calculadora de Impuestos de Venta](test/test_calculadora_impuestos.py)
+4. [Interfaz de kivy](src/view/interfaz_kivy.py)
