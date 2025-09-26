@@ -3,6 +3,7 @@
 ## Descripción
 Esta aplicacion permite al usuario calcular los impuestos que debe pagar segun su compra, cuando este realice una compra pueda saber cuanto es el impuesto que debe a menos que este excepto de impuestos, y este debera calcular y mostrar de acuerdo si es por bolsas plasticas, renta a los licores, INC o el IVA.
 La aplicacion devolvera los calculos de estos y mostrar el valor total a pagar esperado
+La aplicación ofrece dos formas de ejecución: Consola y Interfaz Gráfica (Kivy) que será consultado al usuario y este deberá elegir la opción.
 
 ### Requisitos
 - Asegurate de tener Python 3.6 o superior (si no lo tienes descargalo aquí: [Python.org](https://www.python.org/downloads/))
